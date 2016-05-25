@@ -1,0 +1,22 @@
+{
+  "name": "infor-site",
+  "version": "1.0.0",
+  "description": "infor-site",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s094392/infor-site.git"
+  },
+  "author": "s094392",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s094392/infor-site/issues"
+  },
+  "homepage": "https://github.com/s094392/infor-site#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
