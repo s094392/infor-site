@@ -4,7 +4,8 @@
   "description": "infor-site",
   "main": "app.js",
   "scripts": {
-    "test": "npm app.js"
+    "test": "npm app.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
